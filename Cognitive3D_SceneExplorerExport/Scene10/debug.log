@@ -1,0 +1,362 @@
+*****************************
+***********SYSTEM************
+*****************************
+Unity Version:2023.2.20f1
+OS:Windows 11  (10.0.22631) 64bit
+System Time: 6/2/2025 3:01:44 PM
+
+*****************************
+***********PROJECT***********
+*****************************
+Scripting Define Symbols: USE_INPUT_SYSTEM_POSE_CONTROL;C3D_PICOXR
+Packages:
+  com.cognitive3d.c3d-sdk 1.9.0
+  com.srcnalt.openai-unity 0.2.2
+  com.unity.2d.sprite 1.0.0
+  com.unity.2d.tilemap 1.0.0
+  com.unity.ai.navigation 2.0.0
+  com.unity.collab-proxy 2.3.1
+  com.unity.feature.development 1.0.2
+  com.unity.ide.rider 3.0.28
+  com.unity.ide.visualstudio 2.0.22
+  com.unity.ide.vscode 1.2.5
+  com.unity.live-capture 4.0.0
+  com.unity.render-pipelines.universal 16.0.6
+  com.unity.test-framework 1.3.9
+  com.unity.timeline 1.8.6
+  com.unity.ugui 2.0.0
+  com.unity.visualscripting 1.9.2
+  com.unity.xr.hands 1.4.0
+  com.unity.xr.interaction.toolkit 2.5.4
+  com.unity.xr.management 4.5.0
+  com.unity.xr.oculus 4.2.0
+  com.unity.modules.accessibility 1.0.0
+  com.unity.modules.ai 1.0.0
+  com.unity.modules.androidjni 1.0.0
+  com.unity.modules.animation 1.0.0
+  com.unity.modules.assetbundle 1.0.0
+  com.unity.modules.audio 1.0.0
+  com.unity.modules.cloth 1.0.0
+  com.unity.modules.director 1.0.0
+  com.unity.modules.imageconversion 1.0.0
+  com.unity.modules.imgui 1.0.0
+  com.unity.modules.jsonserialize 1.0.0
+  com.unity.modules.particlesystem 1.0.0
+  com.unity.modules.physics 1.0.0
+  com.unity.modules.physics2d 1.0.0
+  com.unity.modules.screencapture 1.0.0
+  com.unity.modules.terrain 1.0.0
+  com.unity.modules.terrainphysics 1.0.0
+  com.unity.modules.tilemap 1.0.0
+  com.unity.modules.ui 1.0.0
+  com.unity.modules.uielements 1.0.0
+  com.unity.modules.umbra 1.0.0
+  com.unity.modules.unityanalytics 1.0.0
+  com.unity.modules.unitywebrequest 1.0.0
+  com.unity.modules.unitywebrequestassetbundle 1.0.0
+  com.unity.modules.unitywebrequestaudio 1.0.0
+  com.unity.modules.unitywebrequesttexture 1.0.0
+  com.unity.modules.unitywebrequestwww 1.0.0
+  com.unity.modules.vehicles 1.0.0
+  com.unity.modules.video 1.0.0
+  com.unity.modules.vr 1.0.0
+  com.unity.modules.wind 1.0.0
+  com.unity.modules.xr 1.0.0
+  com.unity.xr.picoxr 3.1.2
+SDK Version: 1.9.0
+Api Key: ****919S
+Developer Key: ****SGBW
+Enable Logging: True
+Enable Development Logging: False
+Gaze Type: Physics
+Snapshot Interval: 0.1
+Dynamic Object Search in Parent: True
+Dynamic Object Layer Mask: -1
+Track GPS Location: False
+GPS Accuracy: 2
+Record Floor Position: True
+Automatic Send Timer: 10
+Gaze Snapshot Batch Size: 256
+Event Snapshot Batch Size: 256
+Dynamic Snapshot Batch Size: 512
+Sensor Snapshot Batch Size: 512
+Fixation Snapshot Batch Size: 256
+Save Data to Local Cache if no internet connection: True
+Cache Size (bytes): 104857600
+Cache Size (mb): 100.0 MB
+Custom Protocol: https
+Custom Gateway: data.cognitive3d.com
+Custom Viewer: viewer.cognitive3d.com/scene/
+Custom Dashboard: app.cognitive3d.com
+Texture Export Quality: 2
+Export Lowest LOD from LODGroup Components: True
+Scene Settings:
+  ├─Dimana Aku
+  │  ├─Scene Id: 261bd7c5-e16d-4d57-b1b4-99dc2798608f
+  │  ├─Scene Path: Assets/Scenes/Dimana Aku.unity
+  │  ├─Last Revision: 11/12/2024 02:48:33
+  │  ├─Version Number: 1
+  │  └─Version Id: 7371
+  ├─Siapa Kamu (Bad)
+  │  ├─Scene Id: 765acf65-bc03-4c42-a566-67b436d919ff
+  │  ├─Scene Path: Assets/Scenes/Siapa Kamu (Bad).unity
+  │  ├─Last Revision: 11/12/2024 04:29:36
+  │  ├─Version Number: 1
+  │  └─Version Id: 7372
+  ├─Siapa Kamu (Good)
+  │  ├─Scene Id: 0258ee0b-3ce5-42f0-8eb5-dba6925cf4a4
+  │  ├─Scene Path: Assets/Scenes/Siapa Kamu (Good).unity
+  │  ├─Last Revision: 11/12/2024 04:36:09
+  │  ├─Version Number: 1
+  │  └─Version Id: 7373
+  ├─Dia Menemukanku
+  │  ├─Scene Id: 00abb145-64ac-418e-acb6-fb7304b98a99
+  │  ├─Scene Path: Assets/Scenes/Dia Menemukanku.unity
+  │  ├─Last Revision: 11/12/2024 04:37:44
+  │  ├─Version Number: 1
+  │  └─Version Id: 7374
+  ├─EvaluationScene
+  │  ├─Scene Id: 8a929c8a-0e47-4f1e-b7fb-e428c8363df8
+  │  ├─Scene Path: Assets/Scenes/EvaluationScene.unity
+  │  ├─Last Revision: 11/12/2024 05:01:38
+  │  ├─Version Number: 1
+  │  └─Version Id: 7375
+  ├─Main Menu
+  │  ├─Scene Id: 658164ce-d3ee-4491-b357-b3d077dc17f9
+  │  ├─Scene Path: Assets/Scenes/Main Menu.unity
+  │  ├─Last Revision: 11/12/2024 05:08:41
+  │  ├─Version Number: 1
+  │  └─Version Id: 7376
+  ├─Scene1
+  │  ├─Scene Id: 928f27a3-28d7-4767-9b75-068e68775875
+  │  ├─Scene Path: Assets/Scenes/Scene1.unity
+  │  ├─Last Revision: 06/02/2025 06:29:20
+  │  ├─Version Number: 1
+  │  └─Version Id: 8332
+  └─Scene10
+     ├─Scene Id: 
+     ├─Scene Path: Assets/Scenes/Scene10.unity
+     ├─Last Revision: 
+     ├─Version Number: 0
+     └─Version Id: 0
+
+*****************************
+********CURRENT SCENE********
+*****************************
+Scene Name: Scene10
+Scene Id: 
+Scene Path: Assets/Scenes/Scene10.unity
+Last Revision: 
+Version Number: 0
+Version Id: 0
+Scene Size (mb): 0.13
+Main Camera GameObject: Main Camera
+Manager Initialize On Start: True
+Manager Startup Delay Time (s): 0
+
+*****************************
+****CURRENT SCENE OBJECTS****
+*****************************
+Dynamic Object Count: 0
+
+*****************************
+********EXPORT FOLDER********
+*****************************
+/Cognitive3D_SceneExplorerExport (213mb)
+   /Dia Menemukanku (25.90mb)
+      10282853982445Main.png (0.02mb)
+      1363314364MetaQuestTouchPlus_Left_BaseColor_AO_AlphaRoughnessMain.png (1.45mb)
+      1719758780Vegetation_low_lambert1_Base_ColorMain.png (0.35mb)
+      1764223827MetaQuestTouchPlus_Right_BaseColor_AO_AlphaRoughnessMain.png (1.46mb)
+      1923169716MetaQuestTouchPlus_NormalsBump.png (0.71mb)
+      2078878190Atlas_02_low_lambert1_MetallicMetallicGloss.png (0.10mb)
+      254404446guidedog-272x300Main.png (0.01mb)
+      2840492474356Main.png (0.02mb)
+      32691136Atlas_01_low_initialShadingGroup_MetallicMetallicGloss.png (0.03mb)
+      371857150-1410700296Main.png (0.01mb)
+      371857150-28078Main.png (0.00mb)
+      371857150229594Main.png (0.00mb)
+      371857150232830Main.png (0.00mb)
+      371857150557096463Main.png (0.01mb)
+      790994630Atlas_02_low_lambert1_Base_ColorMain.png (1.46mb)
+      946774827Atlas_03_low_lambert1_Base_ColorMain.png (1.49mb)
+      997871236Atlas_01_low_initialShadingGroup_Base_ColoMain.png (1.35mb)
+      debug.log (0.01mb)
+      scene.bin (15.37mb)
+      scene.gltf (1.65mb)
+      settings.json (0.00mb)
+      /screenshot (0.39mb)
+         screenshot.png (0.39mb)
+   /Dimana Aku (32.38mb)
+      10282853982445Main.png (0.02mb)
+      1363314364MetaQuestTouchPlus_Left_BaseColor_AO_AlphaRoughnessMain.png (1.45mb)
+      1632198596big_153775Main.png (0.03mb)
+      1719758780Vegetation_low_lambert1_Base_ColorMain.png (0.35mb)
+      1764223827MetaQuestTouchPlus_Right_BaseColor_AO_AlphaRoughnessMain.png (1.46mb)
+      1923169716MetaQuestTouchPlus_NormalsBump.png (0.71mb)
+      2078878190Atlas_02_low_lambert1_MetallicMetallicGloss.png (0.10mb)
+      254404446guidedog-272x300Main.png (0.01mb)
+      2840492474356Main.png (0.02mb)
+      32691136Atlas_01_low_initialShadingGroup_MetallicMetallicGloss.png (0.03mb)
+      371857150-1288Main.png (0.00mb)
+      371857150-1410700296Main.png (0.00mb)
+      371857150-5918Main.png (0.00mb)
+      37185715038650Main.png (0.00mb)
+      371857150557096463Main.png (0.01mb)
+      790994630Atlas_02_low_lambert1_Base_ColorMain.png (1.46mb)
+      895651183japanMain.png (0.06mb)
+      946774827Atlas_03_low_lambert1_Base_ColorMain.png (1.49mb)
+      9824129612134Main.png (0.04mb)
+      997871236Atlas_01_low_initialShadingGroup_Base_ColoMain.png (1.35mb)
+      debug.log (0.01mb)
+      scene.bin (20.07mb)
+      scene.gltf (3.30mb)
+      settings.json (0.00mb)
+      /screenshot (0.39mb)
+         screenshot.png (0.39mb)
+   /Dynamic (0.00mb)
+   /EvaluationScene (4.70mb)
+      1363314364MetaQuestTouchPlus_Left_BaseColor_AO_AlphaRoughnessMain.png (1.45mb)
+      1764223827MetaQuestTouchPlus_Right_BaseColor_AO_AlphaRoughnessMain.png (1.46mb)
+      1923169716MetaQuestTouchPlus_NormalsBump.png (0.71mb)
+      371857150-1410700296Main.png (0.00mb)
+      371857150389116Main.png (0.00mb)
+      371857150390344Main.png (0.00mb)
+      debug.log (0.01mb)
+      scene.bin (0.95mb)
+      scene.gltf (0.09mb)
+      settings.json (0.00mb)
+      /screenshot (0.02mb)
+         screenshot.png (0.02mb)
+   /Main Menu (35.37mb)
+      10282853982445Main.png (0.02mb)
+      1180938966controller_r_lo_BaseColorMain.png (0.59mb)
+      122199232touchController_albedoMain.png (0.07mb)
+      1327411633controller_l_lo_NormalBump.png (1.73mb)
+      1363314364MetaQuestTouchPlus_Left_BaseColor_AO_AlphaRoughnessMain.png (1.45mb)
+      1639048993controller_r_lo_NormalBump.png (1.77mb)
+      1719758780Vegetation_low_lambert1_Base_ColorMain.png (0.35mb)
+      1764223827MetaQuestTouchPlus_Right_BaseColor_AO_AlphaRoughnessMain.png (1.46mb)
+      1923169716MetaQuestTouchPlus_NormalsBump.png (0.71mb)
+      2078878190Atlas_02_low_lambert1_MetallicMetallicGloss.png (0.10mb)
+      2120440669OculusQuestTouchControllerTextureMain.png (0.21mb)
+      254404446guidedog-272x300Main.png (0.01mb)
+      2840492474356Main.png (0.02mb)
+      32691136Atlas_01_low_initialShadingGroup_MetallicMetallicGloss.png (0.03mb)
+      371857150399122Main.png (0.01mb)
+      371857150400168Main.png (0.01mb)
+      371857150403012Main.png (0.04mb)
+      371857150404954Main.png (0.00mb)
+      479365944OculusTouchForQuest2_AlbedoRoughnessMain.png (0.23mb)
+      768432320controller_l_lo_BaseColorMain.png (0.58mb)
+      790994630Atlas_02_low_lambert1_Base_ColorMain.png (1.46mb)
+      946774827Atlas_03_low_lambert1_Base_ColorMain.png (1.49mb)
+      997871236Atlas_01_low_initialShadingGroup_Base_ColoMain.png (1.35mb)
+      debug.log (0.01mb)
+      scene.bin (19.56mb)
+      scene.gltf (1.68mb)
+      settings.json (0.00mb)
+      /screenshot (0.43mb)
+         screenshot.png (0.43mb)
+   /Scene1 (44.07mb)
+      1260364039sbklx0p_2K_AlbedoMain.png (1.93mb)
+      1343176726meble_bake2Main.png (4.78mb)
+      1372070924obrus_bakeMain.png (0.39mb)
+      1546041633MetallicMetallicGloss.png (0.12mb)
+      1554654730kuchniaMain.png (0.02mb)
+      1606869701AlbedoMain.png (6.20mb)
+      1735574683198916733Main.png (2.00mb)
+      1860472530jasne_drewnoMain.png (0.05mb)
+      1918971475szafka_teksturaMain.png (0.35mb)
+      1923692886paisagemMain.png (0.93mb)
+      193983750tapete-redondoMain.png (0.20mb)
+      1965863207NormalBump.png (5.39mb)
+      2049321558beta1_noce_naz_textureMain.png (5.90mb)
+      2131142100mpm_vol.09_p01_steel_diffMain.png (0.18mb)
+      2131142100mpm_vol.09_p01_steel_diffMetallicGloss.png (0.20mb)
+      328635878okna_drewnoMain.png (0.25mb)
+      371857150213496Main.png (0.00mb)
+      371857150215596Main.png (0.00mb)
+      371857150215676Main.png (0.01mb)
+      371857150215720Main.png (0.00mb)
+      371857150557096463Main.png (0.01mb)
+      542361329flor1Main.png (0.09mb)
+      665905824198916733Main.png (2.00mb)
+      672913539firany_azurMain.png (0.32mb)
+      700216665flor3Main.png (0.11mb)
+      715989098Frame_BaseColorMain.png (1.12mb)
+      73361471krzesla_bakeMain.png (0.30mb)
+      735159564flor2Main.png (0.11mb)
+      811883761031178249Main.png (0.11mb)
+      debug.log (0.01mb)
+      scene.bin (10.11mb)
+      scene.gltf (0.32mb)
+      settings.json (0.00mb)
+      /screenshot (0.54mb)
+         screenshot.png (0.54mb)
+   /Scene10 (0.13mb)
+      37185715051722Main.png (0.00mb)
+      37185715052008Main.png (0.00mb)
+      scene.bin (0.10mb)
+      scene.gltf (0.02mb)
+      settings.json (0.00mb)
+   /Siapa Kamu (Bad) (34.59mb)
+      10282853982445Main.png (0.02mb)
+      1363314364MetaQuestTouchPlus_Left_BaseColor_AO_AlphaRoughnessMain.png (1.45mb)
+      1522181319HouseLayout_CLR.tgaMain.png (1.55mb)
+      1632198596big_153775Main.png (0.03mb)
+      1671639380House_albedoMain.png (2.24mb)
+      1719758780Vegetation_low_lambert1_Base_ColorMain.png (0.35mb)
+      1764223827MetaQuestTouchPlus_Right_BaseColor_AO_AlphaRoughnessMain.png (1.46mb)
+      1923169716MetaQuestTouchPlus_NormalsBump.png (0.71mb)
+      2078878190Atlas_02_low_lambert1_MetallicMetallicGloss.png (0.10mb)
+      254404446guidedog-272x300Main.png (0.01mb)
+      2840492474356Main.png (0.02mb)
+      32691136Atlas_01_low_initialShadingGroup_MetallicMetallicGloss.png (0.03mb)
+      371857150-1410700296Main.png (0.00mb)
+      371857150-22108Main.png (0.00mb)
+      371857150137338Main.png (0.00mb)
+      371857150145824Main.png (0.00mb)
+      371857150557096463Main.png (0.01mb)
+      507450897HouseLayout_MTL.tgaMetallicGloss.png (0.05mb)
+      790994630Atlas_02_low_lambert1_Base_ColorMain.png (1.46mb)
+      895651183japanMain.png (0.06mb)
+      946774827Atlas_03_low_lambert1_Base_ColorMain.png (1.49mb)
+      9824129612134Main.png (0.04mb)
+      997871236Atlas_01_low_initialShadingGroup_Base_ColoMain.png (1.35mb)
+      debug.log (0.01mb)
+      scene.bin (19.24mb)
+      scene.gltf (2.38mb)
+      settings.json (0.00mb)
+      /screenshot (0.51mb)
+         screenshot.png (0.51mb)
+   /Siapa Kamu (Good) (35.80mb)
+      10282853982445Main.png (0.02mb)
+      1363314364MetaQuestTouchPlus_Left_BaseColor_AO_AlphaRoughnessMain.png (1.45mb)
+      1522181319HouseLayout_CLR.tgaMain.png (1.55mb)
+      1632198596big_153775Main.png (0.03mb)
+      1671639380House_albedoMain.png (2.24mb)
+      1719758780Vegetation_low_lambert1_Base_ColorMain.png (0.35mb)
+      1764223827MetaQuestTouchPlus_Right_BaseColor_AO_AlphaRoughnessMain.png (1.46mb)
+      1923169716MetaQuestTouchPlus_NormalsBump.png (0.71mb)
+      2078878190Atlas_02_low_lambert1_MetallicMetallicGloss.png (0.10mb)
+      254404446guidedog-272x300Main.png (0.01mb)
+      2840492474356Main.png (0.02mb)
+      32691136Atlas_01_low_initialShadingGroup_MetallicMetallicGloss.png (0.03mb)
+      371857150-1410700296Main.png (0.00mb)
+      371857150-24208Main.png (0.00mb)
+      371857150181128Main.png (0.00mb)
+      371857150181988Main.png (0.00mb)
+      371857150557096463Main.png (0.01mb)
+      507450897HouseLayout_MTL.tgaMetallicGloss.png (0.05mb)
+      790994630Atlas_02_low_lambert1_Base_ColorMain.png (1.46mb)
+      895651183japanMain.png (0.06mb)
+      946774827Atlas_03_low_lambert1_Base_ColorMain.png (1.49mb)
+      9824129612134Main.png (0.04mb)
+      997871236Atlas_01_low_initialShadingGroup_Base_ColoMain.png (1.35mb)
+      debug.log (0.01mb)
+      scene.bin (20.50mb)
+      scene.gltf (2.41mb)
+      settings.json (0.00mb)
+      /screenshot (0.43mb)
+         screenshot.png (0.43mb)

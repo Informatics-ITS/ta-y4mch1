@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68c93b76616dfde4ba7174de127d3a48, type: 3}
+  m_Name: Cognitive3D_Preferences
+  m_EditorClassIdentifier: 
+  Protocol: https
+  Gateway: data.cognitive3d.com
+  Dashboard: app.cognitive3d.com
+  Viewer: viewer.cognitive3d.com/scene/
+  Documentation: docs.cognitive3d.com
+  EditorHasDisplayedPopup: 1
+  GazeType: 0
+  ApplicationKey: JS63K55L490SBYAYAT641Q267KS6919S
+  AttributionKey: 
+  EnableLogging: 1
+  EnableDevLogging: 0
+  EnableGaze: 1
+  DynamicObjectSearchInParent: 1
+  TrackGPSLocation: 0
+  GPSAccuracy: 2
+  RecordFloorPosition: 1
+  GazeLayerMask: -1
+  DynamicLayerMask: -1
+  TriggerInteraction: 1
+  GazeSnapshotCount: 256
+  SensorSnapshotCount: 512
+  DynamicSnapshotCount: 512
+  EventDataThreshold: 256
+  FixationSnapshotCount: 256
+  BoundarySnapshotCount: 64
+  AutomaticSendTimer: 10
+  LocalDataCacheSize: 104857600
+  LocalStorage: 1
+  UploadCacheOnEndPlay: 1
+  IncludeDisabledDynamicObjects: 1
+  TextureResize: 2
+  ExportSceneLODLowest: 1
+  sceneSettings:
+  - SceneName: Dimana Aku
+    SceneId: 261bd7c5-e16d-4d57-b1b4-99dc2798608f
+    ScenePath: Assets/Scenes/Dimana Aku.unity
+    LastRevision: 11/12/2024 02:48:33
+    VersionNumber: 1
+    VersionId: 7371
+  - SceneName: Siapa Kamu (Bad)
+    SceneId: 765acf65-bc03-4c42-a566-67b436d919ff
+    ScenePath: Assets/Scenes/Siapa Kamu (Bad).unity
+    LastRevision: 11/12/2024 04:29:36
+    VersionNumber: 1
+    VersionId: 7372
+  - SceneName: Siapa Kamu (Good)
+    SceneId: 0258ee0b-3ce5-42f0-8eb5-dba6925cf4a4
+    ScenePath: Assets/Scenes/Siapa Kamu (Good).unity
+    LastRevision: 11/12/2024 04:36:09
+    VersionNumber: 1
+    VersionId: 7373
+  - SceneName: Dia Menemukanku
+    SceneId: 00abb145-64ac-418e-acb6-fb7304b98a99
+    ScenePath: Assets/Scenes/Dia Menemukanku.unity
+    LastRevision: 11/12/2024 04:37:44
+    VersionNumber: 1
+    VersionId: 7374
+  - SceneName: EvaluationScene
+    SceneId: 8a929c8a-0e47-4f1e-b7fb-e428c8363df8
+    ScenePath: Assets/Scenes/EvaluationScene.unity
+    LastRevision: 11/12/2024 05:01:38
+    VersionNumber: 1
+    VersionId: 7375
+  - SceneName: Main Menu
+    SceneId: 658164ce-d3ee-4491-b357-b3d077dc17f9
+    ScenePath: Assets/Scenes/Main Menu.unity
+    LastRevision: 11/12/2024 05:08:41
+    VersionNumber: 1
+    VersionId: 7376
+  - SceneName: Scene1
+    SceneId: 928f27a3-28d7-4767-9b75-068e68775875
+    ScenePath: Assets/Scenes/Scene1.unity
+    LastRevision: 06/02/2025 06:29:20
+    VersionNumber: 1
+    VersionId: 8332
+  - SceneName: Scene10
+    SceneId: 6f267292-32d2-45aa-93ff-1396357d5469
+    ScenePath: Assets/Scenes/Scene10.unity
+    LastRevision: 06/02/2025 08:01:49
+    VersionNumber: 1
+    VersionId: 8333
+  - SceneName: GoodSiapa Kamu
+    SceneId: 
+    ScenePath: Assets/Scenes/GoodSiapa Kamu.unity
+    LastRevision: 
+    VersionNumber: 0
+    VersionId: 0
+  - SceneName: BaruNew Menu
+    SceneId: 7d410d5e-1298-4235-a827-5bd8526e8fef
+    ScenePath: Assets/Scenes/BaruNew Menu.unity
+    LastRevision: 07/12/2025 17:58:37
+    VersionNumber: 2
+    VersionId: 8692
+  - SceneName: BaruScene1
+    SceneId: a67c6f9a-1763-4efe-8211-33a75410815c
+    ScenePath: Assets/Scenes/BaruScene1.unity
+    LastRevision: 07/12/2025 17:59:36
+    VersionNumber: 2
+    VersionId: 8693
+  - SceneName: BaruScene2
+    SceneId: 949dad29-ded0-4e23-a227-7d3a34180862
+    ScenePath: Assets/Scenes/BaruScene2.unity
+    LastRevision: 07/12/2025 18:00:51
+    VersionNumber: 1
+    VersionId: 8694
+  - SceneName: BaruScene5
+    SceneId: 1ee6090d-eb81-43f8-aeba-066b411a30d7
+    ScenePath: Assets/Scenes/BaruScene5.unity
+    LastRevision: 07/12/2025 18:01:28
+    VersionNumber: 1
+    VersionId: 8695
+  - SceneName: BaruScene6
+    SceneId: 0859bba5-9562-4979-93e7-1d889888dfd4
+    ScenePath: Assets/Scenes/BaruScene6.unity
+    LastRevision: 07/12/2025 18:03:35
+    VersionNumber: 1
+    VersionId: 8696
+  - SceneName: BaruScene9
+    SceneId: 34cca393-d4e0-438a-ae93-7ec3a47de399
+    ScenePath: Assets/Scenes/BaruScene9.unity
+    LastRevision: 07/12/2025 18:04:29
+    VersionNumber: 1
+    VersionId: 8697
+  - SceneName: BaruScene11
+    SceneId: 3cba0f1d-612d-4613-b21b-16f1a2ddbb1a
+    ScenePath: Assets/Scenes/BaruScene11.unity
+    LastRevision: 07/12/2025 18:06:05
+    VersionNumber: 1
+    VersionId: 8698
+  - SceneName: BaruSceneAkhir
+    SceneId: ce1ba1ee-bed5-4bfb-8caf-8f3beeaff2f4
+    ScenePath: Assets/Scenes/BaruSceneAkhir.unity
+    LastRevision: 07/12/2025 18:06:44
+    VersionNumber: 1
+    VersionId: 8699
+  - SceneName: BaruScene0
+    SceneId: 22a7579c-7418-4c78-a673-795151542397
+    ScenePath: Assets/Scenes/BaruScene0.unity
+    LastRevision: 07/12/2025 18:08:25
+    VersionNumber: 1
+    VersionId: 8700

@@ -1,0 +1,5438 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 303ee1e016d584170aa3f9c205065899, type: 3}
+  m_Name: ElevenLabs_2024-11-11T17_07_12_Lily_pre_s50_sb75_se0_b_m2
+  m_EditorClassIdentifier: 
+  profile: {fileID: 11400000, guid: 04d8d7db6114a384aaabeb1d02dd2013, type: 2}
+  audioClip: {fileID: 8300000, guid: a9a7385e2e6ecca469ab8d087e6e0287, type: 3}
+  bakedProfile: {fileID: 11400000, guid: 04d8d7db6114a384aaabeb1d02dd2013, type: 2}
+  bakedAudioClip: {fileID: 8300000, guid: a9a7385e2e6ecca469ab8d087e6e0287, type: 3}
+  duration: 6.4522448
+  frames:
+  - volume: 0.0000071366453
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00029939704
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0022395663
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.052186087
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1.0319561e-14
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09834124
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 3.9865635e-15
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.12885408
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1.5515716e-22
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.15449463
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 7.527721e-30
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.16899462
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 2.8030636e-31
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.16305315
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.15445566
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 2.1045985e-33
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.1455158
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 5.647041e-25
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.1376264
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 9.383775e-35
+    - phoneme: O
+      ratio: 8.305492e-27
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.13392057
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 3.9243896e-30
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.13139473
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 5.1824863e-18
+    - phoneme: '-'
+      ratio: 6.8100286e-34
+  - volume: 0.12191137
+    phonemes:
+    - phoneme: A
+      ratio: 0.9993039
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.565592e-27
+    - phoneme: E
+      ratio: 2.0766755e-29
+    - phoneme: O
+      ratio: 0.00069609506
+    - phoneme: '-'
+      ratio: 8.918256e-22
+  - volume: 0.11182404
+    phonemes:
+    - phoneme: A
+      ratio: 0.00000003607021
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 6.292288e-24
+    - phoneme: E
+      ratio: 1.1584019e-33
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 4.977665e-23
+  - volume: 0.111698285
+    phonemes:
+    - phoneme: A
+      ratio: 1.7836954e-17
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.2678998e-23
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 7.482864e-16
+  - volume: 0.10324028
+    phonemes:
+    - phoneme: A
+      ratio: 1.1093066e-17
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.0125353e-21
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 4.8489685e-17
+  - volume: 0.10304002
+    phonemes:
+    - phoneme: A
+      ratio: 4.485647e-14
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 4.2675946e-23
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 7.35709e-21
+  - volume: 0.09600136
+    phonemes:
+    - phoneme: A
+      ratio: 1.7284122e-14
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.2594968e-26
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 1.0776536e-23
+  - volume: 0.07622594
+    phonemes:
+    - phoneme: A
+      ratio: 3.769384e-15
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 4.9884507e-25
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 9.9550944e-21
+  - volume: 0.05472038
+    phonemes:
+    - phoneme: A
+      ratio: 3.849541e-18
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 5.456785e-23
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 6.457664e-16
+  - volume: 0.018044107
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.010260777
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0099346
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.015604147
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.027193349
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.057701208
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07926014
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 2.3151314e-16
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.092450544
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.9981797
+    - phoneme: U
+      ratio: 6.469261e-10
+    - phoneme: E
+      ratio: 0.0018203792
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.092818044
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.9999999
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.00000013143939
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07877095
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.058224402
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.029988928
+    - phoneme: U
+      ratio: 0.97001106
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.029632023
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.027514309
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.050847333
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.060661577
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08067091
+    phonemes:
+    - phoneme: A
+      ratio: 0.00000007621932
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.99999994
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09611452
+    phonemes:
+    - phoneme: A
+      ratio: 2.6057876e-15
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1.8765885e-11
+    - phoneme: '-'
+      ratio: 1.6515405e-11
+  - volume: 0.10153205
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.9999992
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 2.6915582e-15
+    - phoneme: '-'
+      ratio: 0.00000079349576
+  - volume: 0.11103465
+    phonemes:
+    - phoneme: A
+      ratio: 3.0312323e-15
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 2.4449526e-10
+    - phoneme: '-'
+      ratio: 4.80711e-10
+  - volume: 0.1105344
+    phonemes:
+    - phoneme: A
+      ratio: 0.7749297
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.22498015
+    - phoneme: E
+      ratio: 1.5381979e-11
+    - phoneme: O
+      ratio: 0.000090138295
+    - phoneme: '-'
+      ratio: 3.776489e-22
+  - volume: 0.107109904
+    phonemes:
+    - phoneme: A
+      ratio: 0.9658742
+    - phoneme: I
+      ratio: 1.353384e-28
+    - phoneme: U
+      ratio: 0.00000019994502
+    - phoneme: E
+      ratio: 0.03412562
+    - phoneme: O
+      ratio: 0.0000000028868765
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.10546119
+    phonemes:
+    - phoneme: A
+      ratio: 8.177718e-10
+    - phoneme: I
+      ratio: 4.3504082e-15
+    - phoneme: U
+      ratio: 5.4993723e-14
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 7.560403e-21
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.10095126
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.000000088853355
+    - phoneme: U
+      ratio: 0.00000658147
+    - phoneme: E
+      ratio: 0.9999934
+    - phoneme: O
+      ratio: 2.4766429e-14
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0994629
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.99971616
+    - phoneme: E
+      ratio: 6.249531e-11
+    - phoneme: O
+      ratio: 0.00028382783
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09990838
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.998516
+    - phoneme: U
+      ratio: 1.8662533e-10
+    - phoneme: E
+      ratio: 0.0014617345
+    - phoneme: O
+      ratio: 0.000022212183
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09811559
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.00050629117
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.99949366
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09287446
+    phonemes:
+    - phoneme: A
+      ratio: 3.2722823e-21
+    - phoneme: I
+      ratio: 8.676916e-12
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09252109
+    phonemes:
+    - phoneme: A
+      ratio: 2.0707408e-21
+    - phoneme: I
+      ratio: 9.943305e-14
+    - phoneme: U
+      ratio: 2.8825116e-18
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 1.5688842e-20
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09276677
+    phonemes:
+    - phoneme: A
+      ratio: 1.5565339e-18
+    - phoneme: I
+      ratio: 1.1975264e-13
+    - phoneme: U
+      ratio: 0.0000007783373
+    - phoneme: E
+      ratio: 0.9999992
+    - phoneme: O
+      ratio: 4.6007394e-14
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09275396
+    phonemes:
+    - phoneme: A
+      ratio: 3.1769856e-13
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.9999974
+    - phoneme: E
+      ratio: 0.0000025662005
+    - phoneme: O
+      ratio: 5.2028264e-23
+    - phoneme: '-'
+      ratio: 1.5068012e-12
+  - volume: 0.10659601
+    phonemes:
+    - phoneme: A
+      ratio: 0.99999887
+    - phoneme: I
+      ratio: 2.3499388e-26
+    - phoneme: U
+      ratio: 0.00000000807185
+    - phoneme: E
+      ratio: 0.0000011487841
+    - phoneme: O
+      ratio: 2.0779512e-14
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.1154826
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 5.9207843e-18
+    - phoneme: E
+      ratio: 0.000000025387022
+    - phoneme: O
+      ratio: 2.664385e-17
+    - phoneme: '-'
+      ratio: 2.1511076e-35
+  - volume: 0.12192043
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 2.9573282e-27
+    - phoneme: E
+      ratio: 5.193302e-10
+    - phoneme: O
+      ratio: 3.988655e-26
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.123700134
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1.6768691e-13
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.10858033
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 2.1543942e-17
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09912707
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.1037987e-33
+    - phoneme: E
+      ratio: 6.3354284e-21
+    - phoneme: O
+      ratio: 1.5770802e-32
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08490081
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 4.958156e-27
+    - phoneme: E
+      ratio: 1.8698643e-22
+    - phoneme: O
+      ratio: 1.4041501e-25
+    - phoneme: '-'
+      ratio: 6.1417482e-33
+  - volume: 0.07232341
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 2.7265773e-19
+    - phoneme: E
+      ratio: 2.7089594e-13
+    - phoneme: O
+      ratio: 1.6446431e-12
+    - phoneme: '-'
+      ratio: 2.1907103e-27
+  - volume: 0.06698504
+    phonemes:
+    - phoneme: A
+      ratio: 0.99999994
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 6.177163e-13
+    - phoneme: E
+      ratio: 1.08489e-11
+    - phoneme: O
+      ratio: 0.00000008915265
+    - phoneme: '-'
+      ratio: 7.7821843e-26
+  - volume: 0.05553505
+    phonemes:
+    - phoneme: A
+      ratio: 0.998231
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.000000033930178
+    - phoneme: E
+      ratio: 1.19135735e-14
+    - phoneme: O
+      ratio: 0.0017688946
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.054770064
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.053833324
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07724483
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0991668
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.4122753e-26
+    - phoneme: E
+      ratio: 9.842639e-19
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.10013699
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.498812e-29
+    - phoneme: E
+      ratio: 9.408783e-17
+    - phoneme: O
+      ratio: 8.02086e-32
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.10666635
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 4.9192475e-21
+    - phoneme: E
+      ratio: 3.4398034e-16
+    - phoneme: O
+      ratio: 7.015081e-18
+    - phoneme: '-'
+      ratio: 4.5304904e-21
+  - volume: 0.1032181
+    phonemes:
+    - phoneme: A
+      ratio: 0.99959016
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.000015994512
+    - phoneme: E
+      ratio: 1.9781306e-17
+    - phoneme: O
+      ratio: 0.00000759933
+    - phoneme: '-'
+      ratio: 0.00038631583
+  - volume: 0.09101074
+    phonemes:
+    - phoneme: A
+      ratio: 2.5286112e-12
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.91125286
+    - phoneme: E
+      ratio: 1.7700745e-23
+    - phoneme: O
+      ratio: 4.8470185e-13
+    - phoneme: '-'
+      ratio: 0.08874714
+  - volume: 0.08087481
+    phonemes:
+    - phoneme: A
+      ratio: 0.000016514483
+    - phoneme: I
+      ratio: 0.00000038405776
+    - phoneme: U
+      ratio: 0.9854853
+    - phoneme: E
+      ratio: 0.014497796
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07227039
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05853897
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.040654488
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.031092454
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.023401907
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.024387443
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.02094773
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.04689633
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08194384
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 4.992617e-14
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.10140743
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 3.2010898e-20
+    - phoneme: E
+      ratio: 0.000000005284362
+    - phoneme: O
+      ratio: 2.3481228e-13
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.11950105
+    phonemes:
+    - phoneme: A
+      ratio: 0.3639468
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.6360532
+    - phoneme: O
+      ratio: 3.5838358e-17
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.12599966
+    phonemes:
+    - phoneme: A
+      ratio: 0.00009338363
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.99990666
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.12005254
+    phonemes:
+    - phoneme: A
+      ratio: 0.000003383653
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 4.737822e-15
+    - phoneme: E
+      ratio: 0.9999966
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.11047518
+    phonemes:
+    - phoneme: A
+      ratio: 0.9940197
+    - phoneme: I
+      ratio: 5.008366e-24
+    - phoneme: U
+      ratio: 0.00000001501984
+    - phoneme: E
+      ratio: 0.005980319
+    - phoneme: O
+      ratio: 3.2723688e-20
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09672041
+    phonemes:
+    - phoneme: A
+      ratio: 0.9987263
+    - phoneme: I
+      ratio: 4.014335e-13
+    - phoneme: U
+      ratio: 0.0012536041
+    - phoneme: E
+      ratio: 0.000020106816
+    - phoneme: O
+      ratio: 1.0586422e-14
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.096670955
+    phonemes:
+    - phoneme: A
+      ratio: 1.125576e-12
+    - phoneme: I
+      ratio: 0.00002904169
+    - phoneme: U
+      ratio: 0.0043090414
+    - phoneme: E
+      ratio: 0.9956619
+    - phoneme: O
+      ratio: 1.5778631e-14
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.098750934
+    phonemes:
+    - phoneme: A
+      ratio: 5.4262516e-29
+    - phoneme: I
+      ratio: 0.0000015115221
+    - phoneme: U
+      ratio: 0.0000000036010637
+    - phoneme: E
+      ratio: 0.9999985
+    - phoneme: O
+      ratio: 7.2625054e-27
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.098533444
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.02352232
+    - phoneme: U
+      ratio: 0.00000003365501
+    - phoneme: E
+      ratio: 0.9764776
+    - phoneme: O
+      ratio: 3.279941e-26
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.099274546
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.99999857
+    - phoneme: U
+      ratio: 0.00000010600136
+    - phoneme: E
+      ratio: 0.0000013391154
+    - phoneme: O
+      ratio: 7.8013165e-21
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09362674
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 4.4183024e-10
+    - phoneme: E
+      ratio: 1.4943435e-11
+    - phoneme: O
+      ratio: 3.6732225e-20
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.082501404
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 2.4347249e-20
+    - phoneme: E
+      ratio: 1.4127806e-18
+    - phoneme: O
+      ratio: 5.1168814e-30
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.070549004
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 3.3266462e-29
+    - phoneme: E
+      ratio: 7.146657e-20
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.061063536
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 6.499306e-19
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.056817353
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 6.3246974e-10
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05337977
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.00000005305691
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.99999994
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05319972
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.056626942
+    phonemes:
+    - phoneme: A
+      ratio: 0.96280056
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.03719947
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.056850612
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 5.991393e-22
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05558126
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 2.6718729e-25
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.049926862
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 2.9762835e-19
+    - phoneme: O
+      ratio: 3.6438872e-26
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.04353175
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 7.8091386e-31
+    - phoneme: E
+      ratio: 2.1090868e-19
+    - phoneme: O
+      ratio: 3.3455604e-20
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.035946954
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.100232e-26
+    - phoneme: E
+      ratio: 1.9601611e-14
+    - phoneme: O
+      ratio: 2.2987263e-22
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.029865785
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.564435e-32
+    - phoneme: E
+      ratio: 9.514106e-15
+    - phoneme: O
+      ratio: 1.3477405e-26
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.023674691
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1.7710643e-15
+    - phoneme: O
+      ratio: 2.5795527e-29
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.017192954
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1.6041831e-13
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.010524883
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 3.490218e-15
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0047756354
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1.769158e-21
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0013744069
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 4.2147547e-26
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00078903354
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1.7126507e-30
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00039926733
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 5.657394e-32
+    - phoneme: O
+      ratio: 5.004918e-32
+    - phoneme: '-'
+      ratio: 1.5128059e-31
+  - volume: 0.00019835509
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0000850269
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00006623747
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000056301797
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000042798627
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00003275516
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0000325043
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000030218085
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000029176823
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028274473
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000027798693
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000027557722
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0061610076
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.010780582
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.011065686
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.020517396
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.053431842
+    phonemes:
+    - phoneme: A
+      ratio: 0.0000048503266
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.9999952
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 2.1491604e-16
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07658291
+    phonemes:
+    - phoneme: A
+      ratio: 4.57259e-19
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.99999714
+    - phoneme: E
+      ratio: 1.3593509e-34
+    - phoneme: O
+      ratio: 0.000000008132948
+    - phoneme: '-'
+      ratio: 0.0000028786378
+  - volume: 0.09746568
+    phonemes:
+    - phoneme: A
+      ratio: 5.5588205e-16
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.000058931335
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 6.6760755e-18
+    - phoneme: '-'
+      ratio: 0.99994105
+  - volume: 0.120430686
+    phonemes:
+    - phoneme: A
+      ratio: 0.0002139401
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.0007206676
+    - phoneme: E
+      ratio: 1.493265e-25
+    - phoneme: O
+      ratio: 0.0000058586256
+    - phoneme: '-'
+      ratio: 0.99905956
+  - volume: 0.12529436
+    phonemes:
+    - phoneme: A
+      ratio: 0.000109856155
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.000000001037685
+    - phoneme: E
+      ratio: 1.4320265e-24
+    - phoneme: O
+      ratio: 0.9993106
+    - phoneme: '-'
+      ratio: 0.00057951943
+  - volume: 0.12765571
+    phonemes:
+    - phoneme: A
+      ratio: 0.9996505
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 8.936684e-18
+    - phoneme: E
+      ratio: 6.4303615e-26
+    - phoneme: O
+      ratio: 0.00034953517
+    - phoneme: '-'
+      ratio: 2.239619e-13
+  - volume: 0.12623213
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1.880187e-28
+    - phoneme: O
+      ratio: 6.912047e-20
+    - phoneme: '-'
+      ratio: 2.1610019e-36
+  - volume: 0.11616999
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1.0713628e-25
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09916646
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 7.056491e-20
+    - phoneme: O
+      ratio: 2.783216e-29
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09680816
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 2.0426402e-22
+    - phoneme: E
+      ratio: 2.1292435e-11
+    - phoneme: O
+      ratio: 1.9186954e-17
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0911649
+    phonemes:
+    - phoneme: A
+      ratio: 0.0000008468986
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.06945495e-17
+    - phoneme: E
+      ratio: 0.99999917
+    - phoneme: O
+      ratio: 7.423033e-18
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08476577
+    phonemes:
+    - phoneme: A
+      ratio: 8.900173e-13
+    - phoneme: I
+      ratio: 5.0068533e-33
+    - phoneme: U
+      ratio: 1.2320557e-21
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 3.6374122e-27
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.087822065
+    phonemes:
+    - phoneme: A
+      ratio: 4.1808487e-19
+    - phoneme: I
+      ratio: 1.6869005e-31
+    - phoneme: U
+      ratio: 2.6846006e-23
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 3.794449e-31
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.080729604
+    phonemes:
+    - phoneme: A
+      ratio: 2.7998035e-27
+    - phoneme: I
+      ratio: 1.8153747e-25
+    - phoneme: U
+      ratio: 2.5051018e-19
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 1.6627454e-30
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07822226
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1.793791e-21
+    - phoneme: U
+      ratio: 8.376809e-11
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 4.5426816e-29
+    - phoneme: '-'
+      ratio: 6.85882e-31
+  - volume: 0.08335501
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 6.537613e-22
+    - phoneme: U
+      ratio: 1
+    - phoneme: E
+      ratio: 6.275401e-10
+    - phoneme: O
+      ratio: 4.9304552e-26
+    - phoneme: '-'
+      ratio: 5.590018e-16
+  - volume: 0.08926063
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.0000068872714
+    - phoneme: U
+      ratio: 0.000000009817679
+    - phoneme: E
+      ratio: 0.9999931
+    - phoneme: O
+      ratio: 2.3699245e-30
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.085020475
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.0012031619
+    - phoneme: U
+      ratio: 1.8051319e-14
+    - phoneme: E
+      ratio: 0.9987968
+    - phoneme: O
+      ratio: 1.8555105e-34
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07210586
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.015705436
+    - phoneme: U
+      ratio: 2.948162e-20
+    - phoneme: E
+      ratio: 0.98429453
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05422746
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.0005857516
+    - phoneme: U
+      ratio: 3.3455285e-18
+    - phoneme: E
+      ratio: 0.99941427
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.03460931
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.015178051
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 4.790697e-16
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.015042926
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.03569572
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05052798
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07320517
+    phonemes:
+    - phoneme: A
+      ratio: 0.0000000012942459
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.9998462
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0.0001538308
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.087786004
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1.7156913e-13
+    - phoneme: '-'
+      ratio: 1.230492e-13
+  - volume: 0.0950563
+    phonemes:
+    - phoneme: A
+      ratio: 8.004159e-24
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 6.135365e-17
+    - phoneme: '-'
+      ratio: 0.0000000064832775
+  - volume: 0.10257342
+    phonemes:
+    - phoneme: A
+      ratio: 0.000018322022
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.9999815
+    - phoneme: E
+      ratio: 1.1359073e-10
+    - phoneme: O
+      ratio: 0.0000001653831
+    - phoneme: '-'
+      ratio: 3.4976216e-18
+  - volume: 0.09845839
+    phonemes:
+    - phoneme: A
+      ratio: 0.000055827324
+    - phoneme: I
+      ratio: 4.644326e-21
+    - phoneme: U
+      ratio: 0.0000011128604
+    - phoneme: E
+      ratio: 0.999942
+    - phoneme: O
+      ratio: 0.0000010978735
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09708028
+    phonemes:
+    - phoneme: A
+      ratio: 0.000000027021246
+    - phoneme: I
+      ratio: 8.22548e-15
+    - phoneme: U
+      ratio: 1.7807575e-14
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 2.82208e-13
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09610184
+    phonemes:
+    - phoneme: A
+      ratio: 1.9418754e-16
+    - phoneme: I
+      ratio: 0.000000035034446
+    - phoneme: U
+      ratio: 0.0000000029689395
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 5.419584e-11
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0942653
+    phonemes:
+    - phoneme: A
+      ratio: 3.139236e-13
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.41556114
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0.58443886
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09750292
+    phonemes:
+    - phoneme: A
+      ratio: 1.25961975e-11
+    - phoneme: I
+      ratio: 0.00009122579
+    - phoneme: U
+      ratio: 0.0000048131838
+    - phoneme: E
+      ratio: 0.001200796
+    - phoneme: O
+      ratio: 0.9987032
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09927371
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.0069701965
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.99302983
+    - phoneme: O
+      ratio: 1.280254e-12
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0966474
+    phonemes:
+    - phoneme: A
+      ratio: 1.4543483e-10
+    - phoneme: I
+      ratio: 0.000002172191
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.99999785
+    - phoneme: O
+      ratio: 4.3163412e-20
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.097295776
+    phonemes:
+    - phoneme: A
+      ratio: 8.906325e-16
+    - phoneme: I
+      ratio: 1.682598e-14
+    - phoneme: U
+      ratio: 7.303806e-28
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 3.5291674e-19
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0998461
+    phonemes:
+    - phoneme: A
+      ratio: 3.269971e-17
+    - phoneme: I
+      ratio: 1.1740945e-15
+    - phoneme: U
+      ratio: 1.1746659e-15
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 1.7977088e-14
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.10453434
+    phonemes:
+    - phoneme: A
+      ratio: 1.975528e-10
+    - phoneme: I
+      ratio: 3.3262748e-27
+    - phoneme: U
+      ratio: 0.35788444
+    - phoneme: E
+      ratio: 0.6421156
+    - phoneme: O
+      ratio: 2.6394902e-12
+    - phoneme: '-'
+      ratio: 4.3612316e-15
+  - volume: 0.11857275
+    phonemes:
+    - phoneme: A
+      ratio: 0.9999999
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.00000012566538
+    - phoneme: E
+      ratio: 8.540769e-12
+    - phoneme: O
+      ratio: 6.32974e-18
+    - phoneme: '-'
+      ratio: 6.299421e-27
+  - volume: 0.12604547
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 2.9557738e-19
+    - phoneme: E
+      ratio: 2.0692697e-20
+    - phoneme: O
+      ratio: 6.003734e-26
+    - phoneme: '-'
+      ratio: 1.76383e-39
+  - volume: 0.12961215
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 9.631406e-28
+    - phoneme: E
+      ratio: 7.1844835e-26
+    - phoneme: O
+      ratio: 8.605425e-37
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.12476928
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 4.1317232e-35
+    - phoneme: E
+      ratio: 1.2841745e-32
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.11322632
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 6.595212e-35
+    - phoneme: E
+      ratio: 7.965726e-32
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.101297736
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 9.6574625e-27
+    - phoneme: E
+      ratio: 3.0583272e-28
+    - phoneme: O
+      ratio: 2.258585e-29
+    - phoneme: '-'
+      ratio: 7.83695e-37
+  - volume: 0.090208024
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 5.8631826e-21
+    - phoneme: E
+      ratio: 1.0943014e-24
+    - phoneme: O
+      ratio: 8.7387847e-17
+    - phoneme: '-'
+      ratio: 5.082524e-20
+  - volume: 0.083507314
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.2551589e-18
+    - phoneme: E
+      ratio: 9.9135355e-18
+    - phoneme: O
+      ratio: 4.393706e-10
+    - phoneme: '-'
+      ratio: 7.258623e-22
+  - volume: 0.07418659
+    phonemes:
+    - phoneme: A
+      ratio: 0.113059714
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 6.6898193e-12
+    - phoneme: E
+      ratio: 2.6410675e-18
+    - phoneme: O
+      ratio: 0.88694
+    - phoneme: '-'
+      ratio: 0.00000027378144
+  - volume: 0.057936285
+    phonemes:
+    - phoneme: A
+      ratio: 0.000000008893663
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 2.7526976e-12
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 3.8284324e-17
+  - volume: 0.04836414
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0347347
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.040679794
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.061114367
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1.4528168e-18
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06661562
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 2.9151553e-11
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06917507
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 4.73747e-13
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07156787
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 3.592865e-10
+    - phoneme: O
+      ratio: 1.4532302e-26
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05795962
+    phonemes:
+    - phoneme: A
+      ratio: 0.9778349
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.6072256e-11
+    - phoneme: E
+      ratio: 0.022165123
+    - phoneme: O
+      ratio: 8.134771e-10
+    - phoneme: '-'
+      ratio: 6.362044e-21
+  - volume: 0.050035153
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0.000000022302691
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05182483
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.999779
+    - phoneme: U
+      ratio: 0.00018056436
+    - phoneme: E
+      ratio: 0.000040497973
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.051573943
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.84241486
+    - phoneme: U
+      ratio: 3.665576e-17
+    - phoneme: E
+      ratio: 0.15758513
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.051593926
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.04116659
+    - phoneme: U
+      ratio: 2.0310043e-21
+    - phoneme: E
+      ratio: 0.9588334
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0501986
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.0000015335753
+    - phoneme: U
+      ratio: 1.8919546e-27
+    - phoneme: E
+      ratio: 0.9999985
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05114071
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 6.461835e-13
+    - phoneme: U
+      ratio: 9.703428e-31
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.050806746
+    phonemes:
+    - phoneme: A
+      ratio: 1.6526387e-22
+    - phoneme: I
+      ratio: 5.5903625e-29
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.048211332
+    phonemes:
+    - phoneme: A
+      ratio: 0.007997976
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.992002
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.04373844
+    phonemes:
+    - phoneme: A
+      ratio: 0.99999946
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.0000005243366
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.036673732
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.00000002065929
+    - phoneme: O
+      ratio: 6.316988e-30
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.026823455
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 5.9986205e-10
+    - phoneme: O
+      ratio: 7.105631e-35
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.017924927
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 4.0357672e-11
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.010169383
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.0000000010476163
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0042741485
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.0000000019867596
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0014383404
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 5.097236e-12
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0006137125
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 4.1097642e-10
+    - phoneme: O
+      ratio: 5.851688e-29
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00023630477
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1.4425098e-13
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00007338543
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000048044745
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000037943777
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000030228117
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000027847726
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028161665
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00002796722
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028504068
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000029239101
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000029218358
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000029615132
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000029930792
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000029527992
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0000293839
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00002834943
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00002859963
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028578423
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028226183
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000029332268
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0000293839
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028847662
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028091605
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000027738646
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000026821825
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000026990836
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00002797264
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000027934682
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028258386
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028461494
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000027815047
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028694874
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00002898396
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028466819
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00002768942
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000027331269
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00002654346
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000027320175
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028253022
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000028879173
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00002905187
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0066844393
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.02060336
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.051368635
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1.2368657e-16
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.074979015
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.799163e-29
+    - phoneme: E
+      ratio: 1.0375173e-27
+    - phoneme: O
+      ratio: 7.1369434e-12
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08696819
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 9.6004496e-29
+    - phoneme: E
+      ratio: 1.2823477e-29
+    - phoneme: O
+      ratio: 6.0476796e-17
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.092806436
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 6.710914e-31
+    - phoneme: E
+      ratio: 4.517646e-33
+    - phoneme: O
+      ratio: 2.2433716e-21
+    - phoneme: '-'
+      ratio: 8.1900194e-32
+  - volume: 0.08736992
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 3.3210859e-28
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 9.625289e-16
+    - phoneme: '-'
+      ratio: 1.5223217e-21
+  - volume: 0.070557654
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 3.3454495e-14
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.061452273
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.055934913
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.045792714
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.045168947
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06943175
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08805686
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 4.612275e-16
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.10912007
+    phonemes:
+    - phoneme: A
+      ratio: 0.9999999
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.00000016456558
+    - phoneme: O
+      ratio: 1.1339264e-17
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.12349511
+    phonemes:
+    - phoneme: A
+      ratio: 0.008546858
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.9914532
+    - phoneme: O
+      ratio: 2.5860549e-16
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.12608506
+    phonemes:
+    - phoneme: A
+      ratio: 6.820929e-11
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.11797834
+    phonemes:
+    - phoneme: A
+      ratio: 6.891339e-17
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.10293476
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08613038
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06680407
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0502672
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.04532729
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.040859684
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0620617
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09630288
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.113017626
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.5598766e-29
+    - phoneme: E
+      ratio: 3.1010786e-35
+    - phoneme: O
+      ratio: 2.0361972e-25
+    - phoneme: '-'
+      ratio: 1.6194521e-33
+  - volume: 0.123491876
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 6.1637574e-36
+    - phoneme: E
+      ratio: 3.9448046e-35
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 1.342158e-31
+  - volume: 0.12411959
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.0230532e-32
+    - phoneme: E
+      ratio: 5.173726e-32
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 2.0878637e-34
+  - volume: 0.11276948
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.4609108e-19
+    - phoneme: E
+      ratio: 1.9158837e-29
+    - phoneme: O
+      ratio: 4.602129e-31
+    - phoneme: '-'
+      ratio: 1.9945719e-25
+  - volume: 0.10613244
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.0000000015537375
+    - phoneme: E
+      ratio: 3.7542248e-20
+    - phoneme: O
+      ratio: 2.2123134e-17
+    - phoneme: '-'
+      ratio: 5.0492765e-26
+  - volume: 0.10252874
+    phonemes:
+    - phoneme: A
+      ratio: 0.99999744
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.0000025440752
+    - phoneme: E
+      ratio: 2.8595843e-13
+    - phoneme: O
+      ratio: 9.480145e-11
+    - phoneme: '-'
+      ratio: 1.05977455e-30
+  - volume: 0.09478707
+    phonemes:
+    - phoneme: A
+      ratio: 0.9994716
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.000528383
+    - phoneme: E
+      ratio: 1.3660608e-18
+    - phoneme: O
+      ratio: 3.004139e-11
+    - phoneme: '-'
+      ratio: 8.607001e-27
+  - volume: 0.07833142
+    phonemes:
+    - phoneme: A
+      ratio: 0.023186728
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.97681326
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 4.0277837e-11
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05929256
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.04601448
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.03301541
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.041847512
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05781687
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06122653
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.067435585
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0736918
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06337684
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.054324284
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.043418717
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.029652763
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 5.887655e-23
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 5.1557514e-18
+    - phoneme: '-'
+      ratio: 2.3247456e-14
+  - volume: 0.02055656
+    phonemes:
+    - phoneme: A
+      ratio: 0.0012567684
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 8.884443e-15
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 5.4956045e-13
+    - phoneme: '-'
+      ratio: 0.99874324
+  - volume: 0.027406793
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.03082594
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.03987272
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06080948
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06186129
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07170133
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1.3965351e-13
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07990728
+    phonemes:
+    - phoneme: A
+      ratio: 0.000167417
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 9.361304e-17
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0.99983263
+    - phoneme: '-'
+      ratio: 4.984262e-11
+  - volume: 0.07439342
+    phonemes:
+    - phoneme: A
+      ratio: 3.8068424e-27
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 9.046384e-17
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 2.5903957e-14
+  - volume: 0.07763526
+    phonemes:
+    - phoneme: A
+      ratio: 1.9460838e-33
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 6.8347094e-26
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 1.6432006e-25
+  - volume: 0.07811504
+    phonemes:
+    - phoneme: A
+      ratio: 4.2795536e-35
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 5.0240576e-23
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 6.0275403e-37
+  - volume: 0.069433436
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 5.761105e-37
+    - phoneme: U
+      ratio: 1.4009343e-24
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.059050426
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 2.9220948e-22
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.045801904
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 6.2980665e-22
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 3.8751282e-26
+  - volume: 0.030765397
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 7.380441e-12
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 3.389795e-17
+  - volume: 0.014227402
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.035433274
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06625978
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 2.0373274e-18
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09007572
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 4.2783045e-17
+    - phoneme: '-'
+      ratio: 6.437408e-19
+  - volume: 0.103681
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 2.4082e-24
+    - phoneme: '-'
+      ratio: 2.4740527e-23
+  - volume: 0.10341057
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09429934
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 6.103922e-20
+    - phoneme: O
+      ratio: 6.0703837e-24
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08059289
+    phonemes:
+    - phoneme: A
+      ratio: 0.99999917
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.0000000014650643
+    - phoneme: E
+      ratio: 2.452368e-13
+    - phoneme: O
+      ratio: 0.00000081939805
+    - phoneme: '-'
+      ratio: 3.6316157e-18
+  - volume: 0.072749645
+    phonemes:
+    - phoneme: A
+      ratio: 1.4535018e-17
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.8654006
+    - phoneme: E
+      ratio: 8.9261146e-26
+    - phoneme: O
+      ratio: 0.13459942
+    - phoneme: '-'
+      ratio: 1.514927e-10
+  - volume: 0.07459032
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.9648634
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0.03513481
+    - phoneme: '-'
+      ratio: 0.0000017909293
+  - volume: 0.069397435
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.09022268
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0.020317165
+    - phoneme: '-'
+      ratio: 0.8894602
+  - volume: 0.0761276
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 5.044636e-26
+    - phoneme: U
+      ratio: 0.9999892
+    - phoneme: E
+      ratio: 1.3045744e-10
+    - phoneme: O
+      ratio: 0.00000061468177
+    - phoneme: '-'
+      ratio: 0.000010190608
+  - volume: 0.08759273
+    phonemes:
+    - phoneme: A
+      ratio: 8.781593e-21
+    - phoneme: I
+      ratio: 6.57884e-16
+    - phoneme: U
+      ratio: 0.0000000010927453
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 1.5321957e-12
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09532002
+    phonemes:
+    - phoneme: A
+      ratio: 1.8743112e-24
+    - phoneme: I
+      ratio: 2.0660624e-16
+    - phoneme: U
+      ratio: 5.675859e-16
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 8.837509e-14
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.1031155
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 7.90569e-17
+    - phoneme: U
+      ratio: 3.0161122e-23
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 4.279863e-15
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.101588756
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1.08576726e-16
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 6.6773865e-19
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.09169466
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 5.118393e-13
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08230241
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.0000000067812773
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06955102
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.0006991636
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.99930084
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05883345
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.9992076
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.00079239305
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.05198396
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.042837404
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.040157203
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.036616366
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.03126443
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.025369788
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.02171995
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.01748941
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.026350722
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.050430827
+    phonemes:
+    - phoneme: A
+      ratio: 0.99990743
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.0000925651
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06795806
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 3.7866237e-22
+    - phoneme: E
+      ratio: 0.000000013787291
+    - phoneme: O
+      ratio: 9.544649e-20
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.074226215
+    phonemes:
+    - phoneme: A
+      ratio: 1
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.04017574e-19
+    - phoneme: E
+      ratio: 0.000000016566446
+    - phoneme: O
+      ratio: 4.7561805e-14
+    - phoneme: '-'
+      ratio: 3.573677e-27
+  - volume: 0.08111664
+    phonemes:
+    - phoneme: A
+      ratio: 0.99999875
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 6.3461594e-20
+    - phoneme: E
+      ratio: 0.0000011929857
+    - phoneme: O
+      ratio: 0.000000048339132
+    - phoneme: '-'
+      ratio: 3.2388504e-28
+  - volume: 0.0801283
+    phonemes:
+    - phoneme: A
+      ratio: 0.0000022980475
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 1.3667523e-12
+    - phoneme: E
+      ratio: 7.9012824e-10
+    - phoneme: O
+      ratio: 0.99999774
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07988838
+    phonemes:
+    - phoneme: A
+      ratio: 2.5960522e-21
+    - phoneme: I
+      ratio: 0.021442663
+    - phoneme: U
+      ratio: 0.6423213
+    - phoneme: E
+      ratio: 8.316257e-10
+    - phoneme: O
+      ratio: 0.3362361
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.080262356
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.9999999
+    - phoneme: U
+      ratio: 0.00000011681028
+    - phoneme: E
+      ratio: 2.8498459e-11
+    - phoneme: O
+      ratio: 3.4127456e-18
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.083649054
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 3.1771093e-11
+    - phoneme: E
+      ratio: 2.9702474e-10
+    - phoneme: O
+      ratio: 1.3387189e-18
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.082103916
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 2.8592764e-15
+    - phoneme: E
+      ratio: 5.4700833e-15
+    - phoneme: O
+      ratio: 1.1987349e-21
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07638206
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 1.8637436e-10
+    - phoneme: E
+      ratio: 1.0935497e-13
+    - phoneme: O
+      ratio: 6.493508e-14
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.073375195
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1.3025843e-10
+    - phoneme: U
+      ratio: 0.99983287
+    - phoneme: E
+      ratio: 0.0000000019438906
+    - phoneme: O
+      ratio: 0.00016713256
+    - phoneme: '-'
+      ratio: 4.402972e-24
+  - volume: 0.06907805
+    phonemes:
+    - phoneme: A
+      ratio: 7.87681e-36
+    - phoneme: I
+      ratio: 6.6878577e-37
+    - phoneme: U
+      ratio: 0.999988
+    - phoneme: E
+      ratio: 3.115342e-26
+    - phoneme: O
+      ratio: 0.00001200758
+    - phoneme: '-'
+      ratio: 3.100979e-10
+  - volume: 0.06870368
+    phonemes:
+    - phoneme: A
+      ratio: 3.6120965e-28
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.99999774
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0.00000036797016
+    - phoneme: '-'
+      ratio: 0.0000019292906
+  - volume: 0.0730923
+    phonemes:
+    - phoneme: A
+      ratio: 1.430148e-20
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.9989718
+    - phoneme: E
+      ratio: 8.975044e-27
+    - phoneme: O
+      ratio: 0.0010281611
+    - phoneme: '-'
+      ratio: 7.1290845e-10
+  - volume: 0.07171545
+    phonemes:
+    - phoneme: A
+      ratio: 5.889649e-18
+    - phoneme: I
+      ratio: 7.444589e-27
+    - phoneme: U
+      ratio: 0.000042512544
+    - phoneme: E
+      ratio: 4.0914947e-13
+    - phoneme: O
+      ratio: 0.99995744
+    - phoneme: '-'
+      ratio: 7.5907056e-20
+  - volume: 0.07258066
+    phonemes:
+    - phoneme: A
+      ratio: 6.5476283e-22
+    - phoneme: I
+      ratio: 1.3801037e-15
+    - phoneme: U
+      ratio: 3.0825e-10
+    - phoneme: E
+      ratio: 2.9780867e-10
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 1.6053286e-36
+  - volume: 0.072855204
+    phonemes:
+    - phoneme: A
+      ratio: 2.404692e-37
+    - phoneme: I
+      ratio: 3.2110295e-15
+    - phoneme: U
+      ratio: 0.0000000018284894
+    - phoneme: E
+      ratio: 5.2769857e-22
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 4.297585e-31
+  - volume: 0.06968339
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.00020056222
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0.9997986
+    - phoneme: '-'
+      ratio: 0.0000008234397
+  - volume: 0.071394235
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.00000002623325
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 2.0320608e-20
+  - volume: 0.07300732
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1.3354245e-15
+    - phoneme: U
+      ratio: 3.5038465e-13
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07567046
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0.000018720495
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.9933616
+    - phoneme: O
+      ratio: 0.006619663
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07865333
+    phonemes:
+    - phoneme: A
+      ratio: 7.6957316e-16
+    - phoneme: I
+      ratio: 3.5529641e-22
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 1
+    - phoneme: O
+      ratio: 9.038809e-19
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08280742
+    phonemes:
+    - phoneme: A
+      ratio: 0.000022092347
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.99997795
+    - phoneme: O
+      ratio: 2.499912e-19
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.08375663
+    phonemes:
+    - phoneme: A
+      ratio: 0.14633094
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.8536691
+    - phoneme: O
+      ratio: 9.279393e-21
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0803804
+    phonemes:
+    - phoneme: A
+      ratio: 0.99246264
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.007537357
+    - phoneme: O
+      ratio: 4.143122e-20
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0758638
+    phonemes:
+    - phoneme: A
+      ratio: 0.8588917
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.14110832
+    - phoneme: O
+      ratio: 5.7232907e-15
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07386304
+    phonemes:
+    - phoneme: A
+      ratio: 0.00011701105
+    - phoneme: I
+      ratio: 1.07501985e-11
+    - phoneme: U
+      ratio: 2.3144676e-12
+    - phoneme: E
+      ratio: 0.9903796
+    - phoneme: O
+      ratio: 0.009503454
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.07212287
+    phonemes:
+    - phoneme: A
+      ratio: 8.4545966e-23
+    - phoneme: I
+      ratio: 3.2223918e-25
+    - phoneme: U
+      ratio: 0.000000035324604
+    - phoneme: E
+      ratio: 2.4143912e-24
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06895307
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0.0000013006661
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0.9999987
+    - phoneme: '-'
+      ratio: 1.2508622e-10
+  - volume: 0.068894945
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 7.561551e-10
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 1
+    - phoneme: '-'
+      ratio: 1.3191577e-20
+  - volume: 0.067240186
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 2.383864e-13
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06619908
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0652675
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06443794
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.06135048
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 2.6901518e-25
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.054912418
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 3.6458252e-21
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.044206966
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 9.464701e-34
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 2.4892165e-31
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.03231797
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 3.8955784e-31
+    - phoneme: E
+      ratio: 2.0697014e-33
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.02099106
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 2.1481522e-29
+    - phoneme: E
+      ratio: 6.9480844e-22
+    - phoneme: O
+      ratio: 6.5205295e-32
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.011501269
+    phonemes:
+    - phoneme: A
+      ratio: 2.1711244e-25
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 4.1536794e-16
+    - phoneme: O
+      ratio: 4.660133e-26
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0060706274
+    phonemes:
+    - phoneme: A
+      ratio: 1.7890923e-21
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 8.052113e-12
+    - phoneme: O
+      ratio: 2.8653884e-26
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0018362385
+    phonemes:
+    - phoneme: A
+      ratio: 1.3274269e-19
+    - phoneme: I
+      ratio: 0.99999994
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.000000071414455
+    - phoneme: O
+      ratio: 3.9053817e-24
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.0005344832
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0.0000000143081795
+    - phoneme: O
+      ratio: 5.4271236e-13
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00021706446
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 1
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000099853845
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00004646329
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00003536319
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00003315533
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00003265319
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000032053482
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000031049385
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000030641502
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.00003067117
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000030283227
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000029223544
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0
+  - volume: 0.000027069347
+    phonemes:
+    - phoneme: A
+      ratio: 0
+    - phoneme: I
+      ratio: 0
+    - phoneme: U
+      ratio: 0
+    - phoneme: E
+      ratio: 0
+    - phoneme: O
+      ratio: 0
+    - phoneme: '-'
+      ratio: 0

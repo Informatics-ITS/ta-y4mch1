@@ -1,0 +1,1150 @@
+{
+  "extensionsUsed": [
+    "KHR_lights_punctual"
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [
+        1280.0,
+        1280.0,
+        0.0
+      ],
+      "min": [
+        -1280.0,
+        -1280.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2",
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5121,
+      "count": 6,
+      "type": "SCALAR",
+      "max": [
+        3.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [
+        131.85000610351563,
+        131.85000610351563,
+        0.0
+      ],
+      "min": [
+        -131.85000610351563,
+        -131.85000610351563,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2",
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5121,
+      "count": 6,
+      "type": "SCALAR",
+      "max": [
+        3.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 1104,
+      "type": "VEC3",
+      "max": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "min": [
+        -0.5,
+        -0.5,
+        3.7748950632021661E-08
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 1104,
+      "type": "VEC3",
+      "max": [
+        0.99879539012908936,
+        0.99879550933837891,
+        -0.049066539853811264
+      ],
+      "min": [
+        -0.99879539012908936,
+        -0.99879550933837891,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 1104,
+      "type": "VEC4",
+      "max": [
+        0.99999713897705078,
+        1.0,
+        0.024549435824155807,
+        -1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.024549523368477821,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 1104,
+      "type": "VEC2",
+      "max": [
+        0.99999940395355225,
+        1.0000002384185791
+      ],
+      "min": [
+        0.0,
+        0.50000005960464478
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5123,
+      "count": 5952,
+      "type": "SCALAR",
+      "max": [
+        1103.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 515,
+      "type": "VEC3",
+      "max": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "min": [
+        -0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 515,
+      "type": "VEC3",
+      "max": [
+        0.99997496604919434,
+        1.0,
+        0.9999769926071167
+      ],
+      "min": [
+        -0.99997496604919434,
+        -1.0,
+        -0.99997353553771973
+      ]
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 515,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.056131001561880112,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.065983392298221588,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 515,
+      "type": "VEC2",
+      "max": [
+        0.99833369255065918,
+        0.98237103223800659
+      ],
+      "min": [
+        -0.00092136859893798828,
+        0.024108767509460449
+      ]
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 515,
+      "type": "VEC2",
+      "max": [
+        1.0000003576278687,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.34614646434783936
+      ]
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5123,
+      "count": 2304,
+      "type": "SCALAR",
+      "max": [
+        514.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 88,
+      "type": "VEC3",
+      "max": [
+        0.5,
+        1.0,
+        0.50000005960464478
+      ],
+      "min": [
+        -0.50000011920928955,
+        -1.0,
+        -0.5000002384185791
+      ]
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 88,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 88,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        -1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 88,
+      "type": "VEC2",
+      "max": [
+        0.99974912405014038,
+        0.99954628944396973
+      ],
+      "min": [
+        0.00069368560798466206,
+        0.00056922435760498047
+      ]
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 88,
+      "type": "VEC2",
+      "max": [
+        0.99716836214065552,
+        0.99739980697631836
+      ],
+      "min": [
+        0.0043606190010905266,
+        0.0021193623542785645
+      ]
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5121,
+      "count": 240,
+      "type": "SCALAR",
+      "max": [
+        87.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "scene.bin",
+      "byteLength": 103780
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 48
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 48,
+      "byteLength": 48
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 96,
+      "byteLength": 32
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 128,
+      "byteLength": 6
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 134,
+      "byteLength": 48
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 182,
+      "byteLength": 48
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 230,
+      "byteLength": 32
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 262,
+      "byteLength": 6
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 268,
+      "byteLength": 13248
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13516,
+      "byteLength": 13248
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 26764,
+      "byteLength": 17664
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 44428,
+      "byteLength": 8832
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 53260,
+      "byteLength": 11904
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 65164,
+      "byteLength": 6180
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 71344,
+      "byteLength": 6180
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 77524,
+      "byteLength": 8240
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 85764,
+      "byteLength": 4120
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 89884,
+      "byteLength": 4120
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 94004,
+      "byteLength": 4608
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 98612,
+      "byteLength": 1056
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 99668,
+      "byteLength": 1056
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 100724,
+      "byteLength": 1408
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 102132,
+      "byteLength": 704
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 102836,
+      "byteLength": 704
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 103540,
+      "byteLength": 240
+    }
+  ],
+  "cameras": [
+    {
+      "perspective": {
+        "aspectRatio": 1.7777777910232544,
+        "yfov": 1.0471975803375244,
+        "zfar": 998.65380859375,
+        "znear": 0.0099999997764825821
+      },
+      "type": "perspective",
+      "name": "Main Camera"
+    },
+    {
+      "perspective": {
+        "aspectRatio": 1.7777777910232544,
+        "yfov": 1.0471975803375244,
+        "zfar": 1000.5303344726563,
+        "znear": 0.10000000149011612
+      },
+      "type": "perspective",
+      "name": "UI Camera"
+    }
+  ],
+  "images": [
+    {
+      "uri": "371857150225266Main.png",
+      "name": "225266"
+    },
+    {
+      "uri": "371857150225552Main.png",
+      "name": "225552"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Hidden/Cognitive/Canvas Export Shader"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Hidden/Cognitive/Canvas Export Shader"
+    },
+    {
+      "name": "TunnelingVignette"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "No Name"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7353569,
+          0.7353569,
+          0.7353569,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      },
+      "name": "lambert1"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ],
+      "name": "Canvas"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1
+        }
+      ],
+      "name": "dip to black"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11
+          },
+          "indices": 12,
+          "material": 2
+        }
+      ],
+      "name": "TunnelingVignette"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 13,
+            "NORMAL": 14,
+            "TANGENT": 15,
+            "TEXCOORD_0": 16,
+            "TEXCOORD_1": 17
+          },
+          "indices": 18,
+          "material": 3
+        }
+      ],
+      "name": "Poke Point"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 19,
+            "NORMAL": 20,
+            "TANGENT": 21,
+            "TEXCOORD_0": 22,
+            "TEXCOORD_1": 23
+          },
+          "indices": 24,
+          "material": 4
+        }
+      ],
+      "name": "Cylinder"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 13,
+            "NORMAL": 14,
+            "TANGENT": 15,
+            "TEXCOORD_0": 16,
+            "TEXCOORD_1": 17
+          },
+          "indices": 18,
+          "material": 3
+        }
+      ],
+      "name": "Poke Point"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 19,
+            "NORMAL": 20,
+            "TANGENT": 21,
+            "TEXCOORD_0": 22,
+            "TEXCOORD_1": 23
+          },
+          "indices": 24,
+          "material": 4
+        }
+      ],
+      "name": "Cylinder"
+    }
+  ],
+  "nodes": [
+    {
+      "translation": [
+        -18.59657,
+        7.49280167,
+        127.521477
+      ],
+      "name": "SceneManager"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "rotation": [
+        0.0,
+        0.7071068,
+        0.0,
+        0.7071068
+      ],
+      "translation": [
+        -16.04,
+        3.29,
+        133.0
+      ],
+      "name": "XR Interaction Setup"
+    },
+    {
+      "name": "Input Action Manager"
+    },
+    {
+      "name": "XR Interaction Manager"
+    },
+    {
+      "name": "EventSystem"
+    },
+    {
+      "children": [
+        6,
+        45
+      ],
+      "rotation": [
+        0.0,
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "translation": [
+        0.0,
+        0.125,
+        2.93
+      ],
+      "name": "XR Origin (XR Rig)"
+    },
+    {
+      "children": [
+        7,
+        23,
+        24,
+        26,
+        33,
+        35,
+        43
+      ],
+      "translation": [
+        0.0,
+        1.36144,
+        0.0
+      ],
+      "name": "Camera Offset"
+    },
+    {
+      "camera": 0,
+      "children": [
+        8,
+        20,
+        21,
+        22
+      ],
+      "name": "Main Camera"
+    },
+    {
+      "children": [
+        9,
+        16,
+        19
+      ],
+      "translation": [
+        0.0,
+        1.91356015,
+        2.0099988
+      ],
+      "name": "intro text"
+    },
+    {
+      "children": [
+        10,
+        11
+      ],
+      "translation": [
+        0.0,
+        -2.03,
+        -1.11
+      ],
+      "name": "Canvas (Underlay)"
+    },
+    {
+      "name": "Mesh"
+    },
+    {
+      "children": [
+        12,
+        15
+      ],
+      "scale": [
+        0.0015,
+        0.0015,
+        0.0015
+      ],
+      "name": "Canvas"
+    },
+    {
+      "children": [
+        13
+      ],
+      "name": "Panel"
+    },
+    {
+      "children": [
+        14
+      ],
+      "translation": [
+        0.0,
+        256.0,
+        0.0
+      ],
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "TMP SubMeshUI [NotoSansJP-Regular Atlas Material + NotoSansTC-Regular Atlas]"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0.000158945724,
+        -0.000158945724,
+        -0.000397364318
+      ],
+      "name": "Canvas"
+    },
+    {
+      "children": [
+        17,
+        18
+      ],
+      "scale": [
+        0.001,
+        0.001,
+        0.001
+      ],
+      "translation": [
+        0.0,
+        -1.91356039,
+        -1.95999908
+      ],
+      "name": "dip to black"
+    },
+    {
+      "name": "Panel"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        0.000238418579,
+        0.0,
+        -0.0009536743
+      ],
+      "name": "dip to black"
+    },
+    {
+      "translation": [
+        -0.673,
+        0.0,
+        2.508
+      ],
+      "name": "Audio"
+    },
+    {
+      "mesh": 2,
+      "name": "TunnelingVignette"
+    },
+    {
+      "translation": [
+        -0.1,
+        0.0,
+        0.4
+      ],
+      "name": "Head anchor"
+    },
+    {
+      "camera": 1,
+      "name": "UI Camera"
+    },
+    {
+      "name": "Gaze Interactor"
+    },
+    {
+      "children": [
+        25
+      ],
+      "name": "Gaze Stabilized"
+    },
+    {
+      "name": "Gaze Stabilized Attach"
+    },
+    {
+      "children": [
+        27,
+        30,
+        31,
+        32
+      ],
+      "name": "Left Controller"
+    },
+    {
+      "children": [
+        28
+      ],
+      "name": "Poke Interactor"
+    },
+    {
+      "children": [
+        29
+      ],
+      "mesh": 3,
+      "rotation": [
+        0.04345342,
+        -0.08707283,
+        0.0038016832,
+        0.9952465
+      ],
+      "scale": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "translation": [
+        0.005,
+        -0.01,
+        0.025
+      ],
+      "name": "Poke Point"
+    },
+    {
+      "mesh": 4,
+      "rotation": [
+        0.7071068,
+        0.0,
+        0.0,
+        0.7071068
+      ],
+      "scale": [
+        0.5,
+        3.6,
+        0.5
+      ],
+      "translation": [
+        0.0,
+        -0.1,
+        -4.0
+      ],
+      "name": "Cylinder"
+    },
+    {
+      "name": "Direct Interactor"
+    },
+    {
+      "translation": [
+        0.0,
+        -0.02,
+        -0.035
+      ],
+      "name": "Ray Interactor"
+    },
+    {
+      "translation": [
+        0.0,
+        -0.02,
+        -0.035
+      ],
+      "name": "Teleport Interactor"
+    },
+    {
+      "children": [
+        34
+      ],
+      "name": "Left Controller Stabilized"
+    },
+    {
+      "name": "Left Controller Stabilized Attach"
+    },
+    {
+      "children": [
+        36,
+        39,
+        40,
+        41,
+        42
+      ],
+      "name": "Right Controller"
+    },
+    {
+      "children": [
+        37
+      ],
+      "name": "Poke Interactor"
+    },
+    {
+      "children": [
+        38
+      ],
+      "mesh": 5,
+      "rotation": [
+        0.04345342,
+        0.08707283,
+        -0.0038016832,
+        0.9952465
+      ],
+      "scale": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "translation": [
+        -0.005,
+        -0.01,
+        0.025
+      ],
+      "name": "Poke Point"
+    },
+    {
+      "mesh": 6,
+      "rotation": [
+        0.7071068,
+        0.0,
+        0.0,
+        0.7071068
+      ],
+      "scale": [
+        0.5,
+        3.6,
+        0.5
+      ],
+      "translation": [
+        0.0,
+        -0.1,
+        -4.0
+      ],
+      "name": "Cylinder"
+    },
+    {
+      "name": "Direct Interactor"
+    },
+    {
+      "translation": [
+        0.0,
+        -0.02,
+        -0.035
+      ],
+      "name": "Ray Interactor"
+    },
+    {
+      "translation": [
+        0.0,
+        -0.02,
+        -0.035
+      ],
+      "name": "Teleport Interactor"
+    },
+    {
+      "translation": [
+        0.0,
+        0.0621,
+        0.0245
+      ],
+      "name": "Controller anchor"
+    },
+    {
+      "children": [
+        44
+      ],
+      "name": "Right Controller Stabilized"
+    },
+    {
+      "name": "Right Controller Stabilized Attach"
+    },
+    {
+      "children": [
+        46,
+        47,
+        48
+      ],
+      "name": "Locomotion System"
+    },
+    {
+      "name": "Turn"
+    },
+    {
+      "name": "Move"
+    },
+    {
+      "name": "Climb"
+    },
+    {
+      "name": "Cognitive3D_Manager"
+    },
+    {
+      "name": "PXR_Manager"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        49,
+        50
+      ],
+      "name": "scene"
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "371857150225266Main"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "371857150225552Main"
+    }
+  ]
+}

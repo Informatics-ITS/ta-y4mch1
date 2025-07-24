@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BaruNew Menu.unity
+    guid: 726b0fa076db3d44e85f4c8a06497a0d
+  - enabled: 0
+    path: Assets/Scenes/BaruScene0.unity
+    guid: 4d5515913743cd144b8830942370b31d
+  - enabled: 1
+    path: Assets/Scenes/BaruScene1.unity
+    guid: 4ed490900a295d64888aed2abddfc470
+  - enabled: 1
+    path: Assets/Scenes/BaruScene2.unity
+    guid: 5a12d654105f6b14fb9d434ec4a85295
+  - enabled: 1
+    path: Assets/Scenes/BaruScene5.unity
+    guid: 23ac89f01dbeef54299bb328b8eb29db
+  - enabled: 1
+    path: Assets/Scenes/BaruScene6.unity
+    guid: c813dfee78c2b224f887b2935d06cf12
+  - enabled: 1
+    path: Assets/Scenes/BaruScene9.unity
+    guid: 8fdfcbfff53e924409bff8598f0871d3
+  - enabled: 1
+    path: Assets/Scenes/BaruScene11.unity
+    guid: ae1c43adc7f726949adf48fad854ccec
+  - enabled: 1
+    path: Assets/Scenes/BaruSceneAkhir.unity
+    guid: 374bd67f59647d74482d7f74b111563d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: cb0fa543c7c93fa4d8a78115fd6107c1, type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: aa299390bfd8399438cda941290c263c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ece9bc04fb2abc7418c45b2b10185d86, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fe23d232ba7f2a54e80a0c65768fc931, type: 2}
+  m_UseUCBPForAssetBundles: 0

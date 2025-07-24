@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Flower Store
+* source:	https://sketchfab.com/3d-models/japanese-flower-store-1367d6766ff444a9a80a8183195ab80b
+* author:	Siavash Shahlaei (https://sketchfab.com/rxiny)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Flower Store" (https://sketchfab.com/3d-models/japanese-flower-store-1367d6766ff444a9a80a8183195ab80b) by Siavash Shahlaei (https://sketchfab.com/rxiny) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
